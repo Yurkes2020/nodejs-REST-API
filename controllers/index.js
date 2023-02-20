@@ -1,3 +1,3 @@
-const contactsOperation = require('./products');
+const contactsOperation = require('./contacts');
 
 module.exports = { contactsOperation };
